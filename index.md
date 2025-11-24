@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - containerized workloads
   - gcp scheduling
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on automating recurring containerized workloads on GCP, covering Docker
+  containerization, deploying jobs, and scheduling with Cloud Scheduler, which aligns well with
+  'Automation' family description and tags like deployment and docker.
 ---
 
 # Scheduling Cloud Run Jobs with Google Cloud Scheduler: A Technical Reference
@@ -90,4 +96,5 @@ The project assumes familiarity with setting up these triggers. The tutorial not
 This project provides a minimal, practical example of scheduling containerized workloads on GCP using Cloud Run and Cloud Scheduler. It emphasizes using managed services to reduce operational complexity while supporting reliable, repeatable job execution. The documentation and example Dockerfile serve as a foundation for extending to more complex workflows or integrating with other GCP services.
 
 When returning to this project, focus on adapting the scheduling trigger to your environment and expanding the workload container as needed. The core pattern remains consistent: containerize, deploy as Cloud Run job, schedule with Cloud Scheduler.
+
 
