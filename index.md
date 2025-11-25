@@ -1,13 +1,13 @@
 ---
 slug: github-schedule-gcp-chron-jobs
-title: Scheduling Containerized Workloads on GCP with Cloud Run and Cloud Scheduler
+title: Automate Cloud Run Jobs with Google Cloud Scheduler
 repo: justin-napolitano/schedule-gcp-chron-jobs
 githubUrl: https://github.com/justin-napolitano/schedule-gcp-chron-jobs
 generatedAt: '2025-11-23T09:34:59.285214Z'
 source: github-auto
 summary: >-
-  Technical reference for automating recurring containerized tasks on Google Cloud Platform using
-  Cloud Run jobs triggered by Cloud Scheduler.
+  Learn how to schedule containerized workloads on GCP using Cloud Run and Cloud
+  Scheduler for reliable job execution.
 tags:
   - google-cloud-platform
   - cloud-run
@@ -15,18 +15,26 @@ tags:
   - containerization
   - gcp-jobs
   - cron-jobs
-seoPrimaryKeyword: cloud run jobs
+  - docker
+  - gcp
+  - python
+seoPrimaryKeyword: schedule cloud run jobs gcp
 seoSecondaryKeywords:
   - google cloud scheduler
   - containerized workloads
-  - gcp scheduling
+  - cloud run automation
+  - docker container deployment
+  - gcp cron jobs
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses on automating recurring containerized workloads on GCP, covering Docker
-  containerization, deploying jobs, and scheduling with Cloud Scheduler, which aligns well with
-  'Automation' family description and tags like deployment and docker.
+  The post focuses on automating recurring containerized workloads on GCP,
+  covering Docker containerization, deploying jobs, and scheduling with Cloud
+  Scheduler, which aligns well with 'Automation' family description and tags
+  like deployment and docker.
+kind: project
+id: github-schedule-gcp-chron-jobs
 ---
 
 # Scheduling Cloud Run Jobs with Google Cloud Scheduler: A Technical Reference
