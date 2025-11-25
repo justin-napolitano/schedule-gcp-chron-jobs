@@ -6,9 +6,7 @@ repo: justin-napolitano/schedule-gcp-chron-jobs
 githubUrl: https://github.com/justin-napolitano/schedule-gcp-chron-jobs
 generatedAt: '2025-11-24T21:36:16.014Z'
 source: github-auto
-summary: >-
-  Learn how to automate job scheduling on Google Cloud Run using Google Cloud
-  Scheduler and Docker.
+summary: Learn how to automate job scheduling on Google Cloud Run using Google Cloud Scheduler and Docker.
 tags:
   - docker
   - python
@@ -22,8 +20,8 @@ seoSecondaryKeywords:
   - automate container workloads
   - google cloud automation
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -123,4 +121,5 @@ README.md         # This file
 ---
 
 For detailed instructions, see the tutorial in `index.md`.
+
 
